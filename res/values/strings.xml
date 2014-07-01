@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlogReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_items">no item to display</string>
+    <string-array  name="android_names">
+        <item >fsdgfdg</item>
+        <item >fdfgfhg</item>
+        <item >cnbmxz</item>
+        <item >uioujmn</item>
+        <item >adaafa</item>
+        <item >zqewret</item>
+    </string-array>
+</resources>
